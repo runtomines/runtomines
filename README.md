@@ -1,12 +1,12 @@
 # Hi there 👋 I'm nbnch)
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=desolated2&theme=darkhub&margin-w=15&margin-h=15&column=6&v=2" alt="yuzzuff's stats" />
+    <img src="https://github-profile-trophy.vercel.app/?username=runtomines&theme=darkhub&margin-w=15&margin-h=15&column=6&v=2" alt="yuzzuff's stats" />
 </p>
 
 ## About Me:
 
-<img src="https://komarev.com/ghpvc/?username=desolated2&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=runtomines&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
 
 Hi, I'm nbnch ✌️, a 23 years old reverse engineer with interests in low-level development too.
 
@@ -30,6 +30,6 @@ These are the tools and languages that I have worked with and have experience ab
 ## Github Stats:
 
 <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=desolated2&count_private=true&include_all_commits=true&theme=tokyonight" alt="GouravKhunger's stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=desolated2&layout=compact&theme=tokyonight" alt="yuzzuff's top language stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=runtomines&count_private=true&include_all_commits=true&theme=tokyonight" alt="GouravKhunger's stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=runtomines&layout=compact&theme=tokyonight" alt="yuzzuff's top language stats" />
 </p>
