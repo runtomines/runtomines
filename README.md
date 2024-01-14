@@ -1,4 +1,4 @@
-# Hi there 👋 I'm nbnch)
+# Hi there 👋 I'm RTM)
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=runtomines&theme=darkhub&margin-w=15&margin-h=15&column=6&v=2" alt="yuzzuff's stats" />
